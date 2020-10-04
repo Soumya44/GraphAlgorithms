@@ -132,5 +132,3 @@ g4.test()
 # with zero degree 
 g5 = Graph(3) 
 g5.test() 
-
-#This code is contributed by Neelam Yadav 
