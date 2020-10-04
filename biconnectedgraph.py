@@ -126,5 +126,3 @@ g5.addEdge(0, 1)
 g5.addEdge(1, 2) 
 g5.addEdge(2, 0) 
 print "Yes" if g5.isBC() else "No"
-
-#This code is contributed by Neelam Yadav 
