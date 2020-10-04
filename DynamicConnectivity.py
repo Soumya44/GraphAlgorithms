@@ -81,6 +81,4 @@ if __name__ == '__main__':
 	query(1, 0, 5, arr, rank) 
 	query(2, 4, 5, arr, rank) 
 	query(2, 5, 6, arr, rank) 
-	query(1, 2, 6, arr, rank) 
-
-# This code is contributed by PranchalK 
+	query(1, 2, 6, arr, rank)  
