@@ -17,7 +17,7 @@ def divide(x, y):
     return x / y
 
 
-print("Select operation:")
+print("Select operation to be performed :")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
